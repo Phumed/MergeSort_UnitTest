@@ -5,7 +5,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-url> merge-sorted-arrays
+   git clone https://github.com/Phumed/MergeSort_UnitTest.git typescript-merge-sort
    cd typescript-merge-sort
    ```
 
